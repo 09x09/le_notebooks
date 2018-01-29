@@ -8,5 +8,5 @@ OR
 
 
 How to run jupyter on your computer:
-Assuming you have anaconda installed, go to powershell and enter the following:
+Assuming you have anaconda installed and added to PATH, go to powershell and enter the following:
 >jupyter notebook
