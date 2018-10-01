@@ -1,4 +1,4 @@
-List of notes using jupyter notebook for various subjects. These will be updated regularly
+List of notes using jupyter notebook/markdown for various subjects. These will be updated regularly
 
 How to read the files:
 - Download the files and run using jupyter locally
